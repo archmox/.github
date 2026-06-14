@@ -2,7 +2,7 @@
 
 **Sponsored and maintained by the [AcreetionOS Project](https://acreetionos.org)**
 
-Archmox ports the proven Proxmox VE, Backup Server, and Mail Gateway stack to the Arch Linux ecosystem — all built with PKGBUILDs, all on `pacman`. No .deb dependencies, no Debian paths — pure Arch.
+Archmox brings enterprise-grade virtualization, backup, and mail gateway capabilities to the Arch Linux ecosystem — all built with PKGBUILDs, all on `pacman`. No .deb dependencies, no Debian paths — pure Arch.
 
 ## The Fleet
 
@@ -17,9 +17,9 @@ Archmox ports the proven Proxmox VE, Backup Server, and Mail Gateway stack to th
 
 ## Components
 
-- **Proxmox VE** — KVM + LXC virtualization with web management
-- **Proxmox Backup Server** — Content-addressable, deduplicated backup (Rust)
-- **Proxmox Mail Gateway** — SMTP proxy with spam filtering
+- **Virtual Environment (PVE)** — KVM + LXC virtualization with web management
+- **Backup Server (PBS)** — Content-addressable, deduplicated backup (Rust)
+- **Mail Gateway (PMG)** — SMTP proxy with spam filtering
 - **Software-Defined Storage** — ZFS, Ceph, LVM
 - **HA Clustering** — Corosync + resource management
 - **All on pacman** — PKGBUILDs, systemd, Arch-native paths
@@ -34,5 +34,3 @@ Archmox ports the proven Proxmox VE, Backup Server, and Mail Gateway stack to th
 ## License
 
 Archmox is 100% Open Source under the GNU Affero General Public License v3 or similar FOSS licenses. Archmox&reg; is a pending trademark of the Archmox project.
-
-Proxmox&reg; is a registered trademark of Proxmox Server Solutions GmbH. Archmox is an independent community project and is not endorsed by or affiliated with Proxmox Server Solutions GmbH.

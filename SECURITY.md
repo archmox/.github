@@ -19,7 +19,7 @@ We aim to acknowledge receipt within 48 hours and provide an initial assessment 
 
 ## Scope
 
-Archmox is community-maintained open-source software. We take security seriously but cannot guarantee response times for issues in third-party dependencies (upstream Proxmox, Arch Linux packages, etc.).
+Archmox is community-maintained open-source software. We take security seriously but cannot guarantee response times for issues in third-party dependencies (upstream packages, Arch Linux packages, etc.).
 
 ## Bug Bounty
 
